@@ -1,6 +1,6 @@
 {
   "name": "@npmtuanmap/quo-velit-laboriosam-excepturi",
-  "version": "7.14.190",
+  "version": "7.14.191",
   "description": " ",
   "main": "index.js",
   "author": "tuan149",
@@ -617,5 +617,5 @@
   "bugs": {
     "url": "https://github.com/npmtuanmap/quo-velit-laboriosam-excepturi/issues"
   },
-  "packageManager": "yarn@4.5.2"
+  "packageManager": "yarn@4.5.3"
 }
